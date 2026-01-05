@@ -1,0 +1,14 @@
+#precitedt file
+json/
+prediction_comparisons/
+CLAUDE.md
+/mountpoint
+*.pkl
+GEMINI.md
+paper.txt
+neural_map_prior/
+global_diffusion_map/work_dirs/
+global_diffusion_map/ckpts/
+global_diffusion_map/datasets/
+global_diffusion_map/refine/work_dirs/
+global_diffusion_map/viz/
