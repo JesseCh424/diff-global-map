@@ -12,3 +12,15 @@ global_diffusion_map/ckpts/
 global_diffusion_map/datasets/
 global_diffusion_map/refine/work_dirs/
 global_diffusion_map/viz/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+*.pth
+*.pt
+*.ckpt
+maptracker/work_dirs/
+maptracker/datasets/
+maptracker/viz/
+poly-diffuse/work_dirs/
